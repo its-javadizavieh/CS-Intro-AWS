@@ -15,6 +15,12 @@ Labs are released individually. Currently available:
 | Lab | Topic |
 | --- | --- |
 | [01](labs/01_fondamenti_networking.md) | Fondamenti di networking |
+| [02](labs/02_reti_wifi_vpn.md) | Reti Wi-Fi e VPN |
+| [03](labs/03_simulazione_protocolli_rete.md) | Simulazione e protocolli di rete |
+| [04](labs/04_fondamenti_cloud_computing.md) | Fondamenti di Cloud Computing |
+| [05](labs/05_classificazione_servizi_cloud.md) | Classificazione dei servizi cloud |
+| [06](labs/06_immagini_container_registri.md) | Immagini, container e registri |
+| [07](labs/07_dockerfile_networking_kubernetes.md) | Dockerfile, networking e Kubernetes |
 
 The remaining handouts are prepared for later release. The publication rules intentionally expose only the first lab at this stage.
 
