@@ -78,10 +78,3 @@ Il gateway appartiene alla rete locale; la risoluzione di `example.com` restitui
 ## Cleanup obbligatorio
 
 Non sono state create risorse cloud né cambiate impostazioni di rete. Chiudere i terminali, rimuovere eventuali file di prova diversi dai sei richiesti e conservare soltanto la cartella di consegna. Non pubblicare indirizzi IP privati o nomi host personali.
-
-## Parole chiave Google (screenshot/guide)
-
-- Windows Get-NetIPConfiguration gateway DNS
-- Ubuntu ip route default gateway
-- macOS network TCP IP DNS details
-- traceroute hop timeout ICMP
